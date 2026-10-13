@@ -5,6 +5,11 @@ This project uses machine learning to predict industrial machine failures based 
 
 The XGBoost model is deployed using Streamlit and Render.
 
+## Deployment
+
+**Live Application:**  
+https://machine-failure-prediction1-sqgy.onrender.com
+
 ## Dataset
 - Dataset: AI4I 2020 Predictive Maintenance Dataset
 - Total Records: 10,000
@@ -39,11 +44,6 @@ The XGBoost model is deployed using Streamlit and Render.
 - Streamlit
 - Render
 - GitHub
-
-## Deployment
-
-**Live Application:**  
-https://machine-failure-prediction1-sqgy.onrender.com
 
 ## Run Locally
 
