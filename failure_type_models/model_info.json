@@ -1,0 +1,18 @@
+{
+    "TWF": {
+        "preprocessor": "failure_type_models/TWF_preprocessor.pkl",
+        "model": "failure_type_models/TWF_model.json"
+    },
+    "HDF": {
+        "preprocessor": "failure_type_models/HDF_preprocessor.pkl",
+        "model": "failure_type_models/HDF_model.json"
+    },
+    "PWF": {
+        "preprocessor": "failure_type_models/PWF_preprocessor.pkl",
+        "model": "failure_type_models/PWF_model.json"
+    },
+    "OSF": {
+        "preprocessor": "failure_type_models/OSF_preprocessor.pkl",
+        "model": "failure_type_models/OSF_model.json"
+    }
+}
