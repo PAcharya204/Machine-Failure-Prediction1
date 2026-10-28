@@ -8,7 +8,7 @@ The XGBoost model is deployed using Streamlit and Render.
 ## Deployment
 
 **Live Application:**  
-https://machine-failure-prediction1-sqgy.onrender.com
+https://machine-failure-prediction2.onrender.com/
 
 ## Dataset
 - Dataset: AI4I 2020 Predictive Maintenance Dataset
